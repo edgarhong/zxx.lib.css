@@ -1,6 +1,6 @@
 {
   "name": "zxx.lib.css",
-  "version": "2.10",
+  "version": "2.10.0",
   "description": "a css library for quick layout, especially for flow layout",
   "main": "zxx.lib.css",
   "repository": {
